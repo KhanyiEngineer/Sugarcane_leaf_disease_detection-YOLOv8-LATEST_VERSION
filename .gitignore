@@ -1,0 +1,59 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.env
+env/
+venv/
+yolov8_env/
+*.env
+*.log
+
+# Flask
+instance/
+
+
+# Model and output files
+models/
+runs/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.vscode/
+*.code-workspace
+.idea/
+
+# Virtual environment
+.env/
+.env.bak
+*.venv/
+venv/
+*.virtualenv
+
+# Uploads and temporary files
+backend/uploads/
+backend/temp/
+
+# Pytest cache
+.pytest_cache/
+
+# Coverage reports
+htmlcov/
+coverage.xml
+*.cover
+*.coverage
+
+# Logs and databases
+*.log
+# Ignore uploaded images and results
+backend/uploads/
+runs/
+
+node_modules/

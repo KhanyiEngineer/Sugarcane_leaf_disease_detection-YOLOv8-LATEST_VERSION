@@ -118,3 +118,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Inference Logic**: Gives a brief overview of the inference process.
 - **Future Improvements**: Lists potential areas for expansion.
 - **Contributing** and **License**: Standard sections for open-source projects.
+
+## Contributors
+
+- **Khanyisile Tapiwa Magagula** (@KhanyiEngineer) – Project lead, data collection and preparation, model development and fine-tuning
+- **Samkelo Msibi** (@Samgreenhead) – Data preparation, collaborative research, deployment, testing
